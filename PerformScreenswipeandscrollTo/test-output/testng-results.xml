@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T04:18:55 AST" name="Default suite" finished-at="2022-08-25T04:19:28 AST" duration-ms="32897">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T04:18:55 AST" name="Default test" finished-at="2022-08-25T04:19:28 AST" duration-ms="32897">
+      <class name="ass1W11D5.PerformScreenswipeandscrollTo.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ass1W11D5.PerformScreenswipeandscrollTo.AppTest@2f9f7dcf]" started-at="2022-08-25T04:18:42 AST" name="setUp" finished-at="2022-08-25T04:18:55 AST" duration-ms="13286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestScroll()[pri:1, instance:ass1W11D5.PerformScreenswipeandscrollTo.AppTest@2f9f7dcf]" started-at="2022-08-25T04:18:55 AST" name="TestScroll" finished-at="2022-08-25T04:19:17 AST" duration-ms="21513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScroll -->
+        <test-method signature="TestSwipe()[pri:2, instance:ass1W11D5.PerformScreenswipeandscrollTo.AppTest@2f9f7dcf]" started-at="2022-08-25T04:19:17 AST" name="TestSwipe" finished-at="2022-08-25T04:19:28 AST" depends-on-methods="ass1W11D5.PerformScreenswipeandscrollTo.AppTest.TestScroll" duration-ms="10756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSwipe -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ass1W11D5.PerformScreenswipeandscrollTo.AppTest@2f9f7dcf]" started-at="2022-08-25T04:19:28 AST" name="tearDown" finished-at="2022-08-25T04:19:28 AST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ass1W11D5.PerformScreenswipeandscrollTo.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
